@@ -262,15 +262,7 @@ namespace CSharpApp
                 131710603520000000
             someTime.ToLongDateString()
                 "Thursday, May 17, 2018"
-
-
-
             
-
-
-
-
-
         }
     }
 }
